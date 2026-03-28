@@ -1,4 +1,4 @@
-baseURL = 'https://zbysekz.github.io/ZZ-doupe/'
+baseURL = 'https://zz-doupe.com'
 languageCode = 'en-us'
 title = 'ZZ doupě'
 theme = 'pehtheme-hugo'
@@ -10,7 +10,7 @@ disqusShortname = 'your-disqus-shortname' # <- Get form here : https://disqus.co
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-    
+
 [params]
 	# Meta description, not exceeding 160 characters, used for the meta description within the HTML head
 	description = 'Pehtheme Hugo Lite: A minimalist Hugo theme, built with TailwindCSS, for efficient performance and minimalism.'
