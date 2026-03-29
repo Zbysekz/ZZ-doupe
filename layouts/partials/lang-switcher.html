@@ -1,0 +1,21 @@
+{{/*
+  Language switcher – shown only on posts that have a translation.
+  Reads two front-matter params set per-post:
+    translationURL:  "/posts/building-hop-garden/"
+    translationLang: "EN"   (or "CS")
+  Renders a small flag link; nothing at all if translationURL is absent.
+*/}}
+
+{{ with .Params.translationURL }}
+  {{ $lang  := $.Params.translationLang | upper }}
+  {{ $flag  := "🌐" }}
+  {{ if eq $lang "EN" }}{{ $flag = "🇬🇧" }}{{ end }}
+  {{ if eq $lang "CS" }}{{ $flag = "🇨🇿" }}{{ end }}
+
+  <a href="{{ . }}"
+     class="inline-flex items-center gap-1.5 rounded-full border px-3 py-1 text-sm bg-zinc-100 hover:bg-zinc-200 transition-colors no-underline"
+     title="Read this article in {{ $lang }}">
+    <span class="text-base leading-none">{{ $flag }}</span>
+    <span class="font-medium">{{ $lang }}</span>
+  </a>
+{{ end }}
