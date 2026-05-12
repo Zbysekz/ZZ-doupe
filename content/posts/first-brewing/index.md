@@ -9,7 +9,7 @@ tags:
   - "homebrewing"
 draft: false
 image: "05.jpg"
-translationURL: "/posts/prvni-vareni/"
+translationURL: "/cs/posts/prvni-vareni/"
 translationLang: "CS"
 description: "Documented first brew on 8 May 2021 – recipe ALE 11° Lemondrop, HERMS system, 4 serious problems and the result: non-alcoholic beer at 1–2% ABV."
 ---
@@ -54,11 +54,11 @@ Beer did not ferment as expected – according to calculations there was approxi
 
 Despite that, it turned out to be a nice beer and received a lot of praise as a **very tasty bitter non-alcoholic**.
 
-![](./01.jpg)
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
-![](./06.jpg)
-![](./07.jpg)
-![](./08.jpg)
-![](./09.jpg)
+![](01.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)
+![](06.jpg)
+![](07.jpg)
+![](08.jpg)
+![](09.jpg)

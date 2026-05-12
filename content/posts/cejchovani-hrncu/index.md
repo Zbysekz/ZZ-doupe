@@ -10,7 +10,7 @@ tags:
   - "homebrewing"
 draft: false
 image: "02.jpg"
-translationURL: "/posts/cejchovani-hrncu/"
+translationURL: "/cs/posts/cejchovani-hrncu/"
 translationLang: "CS"
 description: "Electrolytic etching of volume scales on stainless brew pots using a 3D-printed template – more accurate and durable than the duct-tape method."
 ---

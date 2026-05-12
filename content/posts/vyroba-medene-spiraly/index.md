@@ -10,7 +10,7 @@ tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-translationURL: "/posts/vyroba-medene-spiraly/"
+translationURL: "/cs/posts/vyroba-medene-spiraly/"
 translationLang: "CS"
 description: "How to make a copper coil for a HERMS system and wort chilling from 12×1 mm Cu pipe – including the trick for removing packed salt."
 ---
@@ -47,6 +47,6 @@ This turned out to be the hardest step. After bending, the salt was compacted an
 It took 2 hours but it worked. It turns out others have had the same problem:  
 [How to get the bloody salt out – Tapatalk](https://www.tapatalk.com/groups/modelsteam/how-to-get-the-bloody-salt-out-t65003.html) (the author there used compressed air instead).
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)

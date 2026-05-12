@@ -37,7 +37,7 @@
 
       {{/* ── Language switcher – only shown when translationURL is set in front matter ── */}}
       {{ with .Params.translationURL }}
-      <div class="mt-4">{{ $ }}
+      <div class="mt-4">
         {{- partial "lang-switcher.html" $ -}}
       </div>
       {{ end }}

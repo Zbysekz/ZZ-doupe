@@ -13,7 +13,7 @@ tags:
   - "mashing"
 image: "01.jpg"
 draft: false
-translationURL: "/posts/uvod-motivace/"
+translationURL: "/cs/posts/uvod-motivace/"
 translationLang: "CS"
 description: "Motivation for building a home microbrewery – from idea to execution. Planning automation, location and mashing system."
 ---
@@ -50,6 +50,6 @@ I was inspired by [this connected vessels method](https://www.youtube.com/watch?
 
 > **Note:** It did not work – the pressure required is so large that the vessels cannot hold it and would need to be sealed extremely well.
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)

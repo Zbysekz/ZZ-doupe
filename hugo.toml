@@ -8,11 +8,11 @@ googleAnalytics = 'G-MEASUREMENT_ID'   # <- replace with your GA-4 ID
 disqusShortname = ''                   # <- replace with your Disqus shortname
 
 # Multilingual config
-defaultContentLanguage = 'en-us'
+defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 
 [languages]
-  [languages.en-us]
+  [languages.en]
     title = 'ZZ doupě'
     languageName = 'English'
     weight = 1

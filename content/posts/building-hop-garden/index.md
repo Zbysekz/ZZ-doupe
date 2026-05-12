@@ -10,7 +10,7 @@ tags:
   - "homebrewing"
 image: "12.jpg"
 draft: false
-translationURL: "/posts/stavba-chmelnice/"
+translationURL: "/cs/posts/stavba-chmelnice/"
 translationLang: "CS"
 description: "Documentation of hop garden construction in May 2022 – concrete pillars, 5 m KVH timber, wire system for four hop plants."
 ---
@@ -47,16 +47,16 @@ Place timbers onto the threaded rods and tighten.
 | Main horizontal wire | 1.5 mm dia |
 | Vertical training wires | 0.9 mm dia |
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
-![](./05.jpg)
-![](./06.jpg)
-![](./07.jpg)
-![](./08.jpg)
-![](./09.jpg)
-![](./10.jpg)
-![](./11.jpg)
-![](./12.jpg)
-![](./13.jpg)
-![](./14.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)
+![](05.jpg)
+![](06.jpg)
+![](07.jpg)
+![](08.jpg)
+![](09.jpg)
+![](10.jpg)
+![](11.jpg)
+![](12.jpg)
+![](13.jpg)
+![](14.jpg)

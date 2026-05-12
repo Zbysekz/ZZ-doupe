@@ -46,6 +46,6 @@ Sůl po vysušení pevně drží uvnitř trubky. Osvědčené řešení:
 
 Více k tomuto problému: [How to get the bloody salt out – Tapatalk](https://www.tapatalk.com/groups/modelsteam/how-to-get-the-bloody-salt-out-t65003.html)
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)

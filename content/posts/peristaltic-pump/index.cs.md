@@ -1,6 +1,6 @@
 ---
 title: "Peristaltické čerpadlo pro mikrovarnu"
-slug: "peristalticke-cerpadlo-pro-mikrovarnu"
+slug: "peristalticke-cerpadlo"
 date: 2021-04-21
 lastmod: 2021-07-14
 author: "Zbyšek Zapadlík"

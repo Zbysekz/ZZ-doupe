@@ -13,7 +13,7 @@ tags:
   - "microbrewery"
   - "electronics"
 draft: false
-translationURL: "/posts/peristalticke-cerpadlo/"
+translationURL: "/cs/posts/peristalticke-cerpadlo/"
 translationLang: "CS"
 description: "Design and build of a 3D-printed peristaltic pump for a microbrewery – version 0 and version 1."
 ---

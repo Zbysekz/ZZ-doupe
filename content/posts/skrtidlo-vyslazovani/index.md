@@ -1,46 +1,47 @@
 ---
-title: "Škrtidlo na vyslazování a scezování"
-slug: "skrtidlo-na-vyslazovani-a-scezovani"
+title: "Clamp for Sparging and Lautering"
+slug: "clamp-for-sparging-and-lautering"
 date: 2023-02-13
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Brewing Beer"
 tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-description: "3D tisknuté škrtidlo na hadičku pro scezování a vyslazování piva – model z Printables, tisk z PETG nebo ASA, plastové klipsy."
-# Poznámka: tento článek nemá anglický překlad
+translationURL: "/cs/posts/skrtidlo-na-vyslazovani-a-scezovani/"
+translationLang: "CS"
+description: "3D-printed hose clamp for beer lautering and sparging – model from Printables, printed in PETG or ASA, using plastic clips."
 ---
 
-## Škrtidlo na vyslazování a scezování
+## Clamp for Sparging and Lautering
 
-Místo kovového škrtidla jsem sáhl po **3D tisknutém řešení** nalezeném na internetu.
+Instead of using a metal hose clamp, I opted for a **3D-printed solution** found online.
 
 ### Model
 
-[Hose Clamp / Škrtidlo na hadičku – Printables](https://www.printables.com/cs/model/363963-hose-clamp-skrtidlo-na-hadicku)
+[Hose Clamp – Printables](https://www.printables.com/model/363963-hose-clamp)
 
-### Tisk a materiál
+### Printing and Material
 
-- **Materiál:** PETG nebo ASA – vhodné pro kontakt s potravinami a odolné vůči vyšším teplotám
-- Tisk bez větších komplikací
+- **Material:** PETG or ASA – suitable for food contact and resistant to higher temperatures
+- Printed without major issues
 
-### Úpravy
+### Modifications
 
-Místo originálních **kovových hřídelek** jsem použil **plastové klipsy**:
+Instead of the original **metal pins**, I used **plastic clips**:
 
-- Eliminuje riziko koroze
-- Zjednodušuje sestavení
-- Snižuje náklady
+- Eliminates the risk of corrosion
+- Simplifies assembly
+- Reduces cost
 
-### Použití
+### Usage
 
-Škrtidlo reguluje průtok hadicí od plného průtoku po úplné uzavření. Ideální pro:
+The clamp regulates hose flow from full flow down to complete shutoff. Ideal for:
 
-- **Scezování** rmutové kaše
-- **Vyslazování** (splachovací vody)
-- Obecné přepínání hadiček ve varně
+- **Lautering** the mash
+- **Sparging** (rinsing water)
+- General hose switching in the brewhouse
 
-![](./02.jpg)
-![](./03.jpg)
+![](02.jpg)
+![](03.jpg)

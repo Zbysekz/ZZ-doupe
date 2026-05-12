@@ -51,8 +51,8 @@ Z 2 m trubky Cu 15×1 se vyrobí:
 
 Štěrbiny se řežou opatrně brusnými kotoučky v mikrovrtačce. Šířka 0,6 mm je kompromis – propustí tekutinu, ale zachytí zrno ze šrotu. Doporučuji práci provádět ve svěráku a vždy používat ochranné brýle – kotoučky jsou křehké a mohou se rozlomit.
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
-![](./05.jpg)
-![](./06.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)
+![](05.jpg)
+![](06.jpg)

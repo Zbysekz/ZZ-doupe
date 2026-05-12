@@ -10,7 +10,7 @@ tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-translationURL: "/posts/medeny-manifold/"
+translationURL: "/cs/posts/medeny-manifold/"
 translationLang: "CS"
 description: "DIY copper manifold for lautering – an alternative to a false bottom or bazooka screen. Easily disassembled, ~700 CZK (33 USD)."
 ---
@@ -46,8 +46,8 @@ All pipes are cut from one **2 m long Cu 15×1 mm half-hard pipe**.
 
 The slits are approximately **0.6 mm wide** – narrow enough to retain grain husks while allowing wort to pass through. Grinding wheels wear down quickly and occasionally break. Always wear safety glasses.
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
-![](./05.jpg)
-![](./06.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)
+![](05.jpg)
+![](06.jpg)

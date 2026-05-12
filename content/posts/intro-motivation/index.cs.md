@@ -46,6 +46,6 @@ Původně jsem uvažoval o peristaltickém čerpadle pro cirkulaci rmutové kaš
 
 [Inspirace pro gravitační rmutování (YouTube)](https://www.youtube.com/watch?v=6gl_GT96D1w&t=100s)
 
-![](./02.jpg)
-![](./03.jpg)
-![](./04.jpg)
+![](02.jpg)
+![](03.jpg)
+![](04.jpg)
