@@ -9,7 +9,6 @@ tags:
   - "homebrewing"
 image: "01.jpg"
 draft: false
-image: "12.jpg"
 translationURL: "/posts/building-hop-garden/"
 translationLang: "EN"
 description: "Dokumentace stavby domácí chmelnice v květnu 2022 – betonové patky, KVH hranoly 5 m, drátěný systém pro čtyři babky chmele."
