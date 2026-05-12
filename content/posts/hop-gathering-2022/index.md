@@ -1,36 +1,37 @@
 ---
-title: "Sklizeň chmele 2022"
-slug: "sklizen-chmele-2022"
+title: "Hop Harvest 2022"
+slug: "hop-harvest-2022"
 date: 2022-11-30
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Brewing beer"
 tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-description: "První sklizeň chmele ze čtyř babyček vysazených v roce 2021 – odrůdy ŽPČ a Sládek, výsledné hmotnosti po sušení a praktické poznatky."
-# Poznámka: tento článek nemá anglický překlad
+translationURL: "/posts/sklizen-chmele-2022/"
+translationLang: "CS"
+description: "The first hop harvest from four plants planted in 2021 – ŽPČ and Sládek varieties, final weights after drying, and practical notes."
 ---
 
-## Sklizeň chmele 2022
+## Hop Harvest 2022
 
-V roce 2022 proběhla **první sklizeň** ze čtyř babek chmele vysazených v roce 2021.
+In 2022, the **first harvest** took place from four hop plants planted in 2021.
 
-### Výsledky sklizně
+### Harvest Results
 
-| Odrůda | Počet babek | Čerstvá hmotnost | Suchá hmotnost |
-|--------|-------------|-------------------|----------------|
-| ŽPČ (Žatecký poloraný červeňák) | 2 | 997 g | 360 g |
-| Sládek | 2 | – | 458 g |
+| Variety                      | Number of Plants | Fresh Weight | Dry Weight |
+|------------------------------|------------------|--------------|------------|
+| ŽPČ (Czech Saaz) | 2                | 997 g        | 360 g      |
+| Sládek                       | 2                | –            | 458 g      |
 
-Sušení probíhalo na **půdě**, přirozeným prouděním vzduchu po dobu **5–7 dní**.
+Drying took place in the **attic**, using natural airflow for **5–7 days**.
 
-### Poznatky
+### Notes
 
-> **Vždy používejte pytlíky na chmel!**
+> **Always use hop bags!**
 
-Bez pytlíků listy a zbytky chmele ucpávají ventily. Pytlíky na chmel tento problém zcela eliminují.
+Without bags, leaves and hop debris clog valves. Hop bags completely eliminate this problem.
 
 ![](./01.jpg)
 ![](./02.jpg)
@@ -42,4 +43,3 @@ Bez pytlíků listy a zbytky chmele ucpávají ventily. Pytlíky na chmel tento 
 ![](./08.jpg)
 ![](./09.jpg)
 ![](./10.jpg)
-![](./11.jpg)

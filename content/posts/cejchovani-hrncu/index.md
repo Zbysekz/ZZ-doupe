@@ -1,64 +1,52 @@
 ---
-title: "Cejchování hrnců"
-slug: "cejchovani-hrncu"
+title: "Making scale on stainless pots"
+slug: "making-scale-on-stainless-pots"
 date: 2022-04-01
 lastmod: 2022-04-05
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Beer brewing"
 tags:
-  - "cejchování"
-  - "hrnec"
-  - "3D tisk"
-  - "elektrolytické leptání"
-  - "varna"
+  - "homebrewing"
 draft: false
 image: "02.jpg"
-translationURL: "/posts/making-scale-on-stainless-pots/"
-translationLang: "EN"
-description: "Metoda elektrolytického cejchování varných hrnců pomocí 3D tisknuté šablony – přesnější a trvanlivější alternativa k izolačce."
+translationURL: "/posts/cejchovani-hrncu/"
+translationLang: "CS"
+description: "Electrolytic etching of volume scales on stainless brew pots using a 3D-printed template – more accurate and durable than the duct-tape method."
 ---
 
-## Cejchování hrnců
+## Making scale on stainless pots
 
-Pro přesné vaření je nutné vědět, kolik litrů je v hrnci. Místo izolačky jsem navrhl **3D tisknutou šablonu** a zvolil **elektrolytické leptání**.
+I first tried the method described at [cech-pivo.cz](https://www.cech-pivo.cz/cs/blog/56-cejchovani-hrnce). It worked, but the result was unsatisfying and it took too long. Working with duct tape to create the template was a nightmare – the tape doesn't conform well to a curved surface and the template shifts.
 
-### Princip elektrolytického leptání
+Why not use a **3D-printed template** instead? With this new method I successfully created scales for all 3 of my pots, all done before noon.
 
-Elektrický proud prochází vodivým roztokem (ocet + sůl) a lokálně odebírá materiál z povrchu nerezového hrnce. Výsledné rysky jsou trvalé a odolné vůči mytí.
+## Required tools
 
-### Potřebné vybavení
+- Cotton swab
+- Shot of vinegar
+- Spoon of salt
+- DC power supply – 12 V, up to 1 A is sufficient
+- Stick glue (e.g. KORES)
+- Ethanol for cleaning
 
-- Vatová tyčinka
-- Ocet (stolní) + sůl (kuchyňská)
-- Zdroj **12 V / 1 A**
-- Lepidlo KORES
-- Líh (odmaštění)
-- 3D tisknutá šablona s otvory pro rysky
+## Procedure
 
-### Postup
+1. Fill the pot with a known volume of water (e.g. 10 l) and mark the water level
+2. Clean and degrease the pot surface with ethanol
+3. Align the 3D-printed template with the mark and glue it in place
+4. Connect **positive (+)** to the pot, **negative (–)** to a cotton swab soaked in the vinegar + salt solution
+5. Press the swab into each hole in the template for ~5–10 seconds per mark
+6. Remove the template and rinse
 
-1. **Nalít přesné množství vody** do hrnce a vyznačit hladinu
-2. **Odmaštit** povrch lihem
-3. **Přilepit šablonu** lepidlem KORES
-4. Připojit **+ pól** na hrnec, **– pól** na vatovou tyčinku v roztoku octa a soli
-5. Přiložit tyčinku na otvor a projet rysku (~5–10 sekund)
-6. Sundat šablonu a opláchnout
+## Models
 
-### Srovnání metod
+The template model is parametric – you will need to adjust it to match your pot diameter and desired scale range.
 
-| Metoda | Výhody | Nevýhody |
-|--------|--------|----------|
-| Izolačka | Jednoduché vybavení | Špatně kopíruje kulatý povrch |
-| 3D tisknutá šablona | Přesné a opakovatelné | Nutnost 3D tiskárny |
+- [Parametric model – OnShape](https://cad.onshape.com/documents/3b5285c8e771676dbc97391e/w/b20166cc99900b7f86d25ebb/e/b7ad8022e80818e54c37f934?renderMode=0&uiState=6246c486d219ed77c1897c99)
+- [3D model – Printables.com](https://www.printables.com/cs/model/162664-measuring-volume-scale-mask)
 
 ![1](./01.jpg)
 ![3](./03.jpg)
 ![4](./04.jpg)
 ![5](./05.jpg)
-
-### Zdroje
-
-- [Cejchování hrnce – cech-pivo.cz](https://www.cech-pivo.cz/cs/blog/56-cejchovani-hrnce)
-- [3D model šablony – Printables.com](https://www.printables.com/cs/model/162664-measuring-volume-scale-mask)
-- [Parametrický model – OnShape](https://cad.onshape.com/documents/3b5285c8e771676dbc97391e/w/b20166cc99900b7f86d25ebb/e/b7ad8022e80818e54c37f934)

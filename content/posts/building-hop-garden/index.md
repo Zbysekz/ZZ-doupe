@@ -1,49 +1,51 @@
 ---
-title: "Stavba chmelnice"
-slug: "stavba-chmelnice"
+title: "Building hop garden"
+slug: "building-hop-garden"
 date: 2022-05-13
+lastmod: 2022-06-03
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Beer brewing"
 tags:
   - "homebrewing"
-image: "01.jpg"
-draft: false
 image: "12.jpg"
-translationURL: "/posts/building-hop-garden/"
-translationLang: "EN"
-description: "Dokumentace stavby domácí chmelnice v květnu 2022 – betonové patky, KVH hranoly 5 m, drátěný systém pro čtyři babky chmele."
+draft: false
+translationURL: "/posts/stavba-chmelnice/"
+translationLang: "CS"
+description: "Documentation of hop garden construction in May 2022 – concrete pillars, 5 m KVH timber, wire system for four hop plants."
 ---
 
-## Stavba chmelnice
+## Building hop garden
 
-V květnu 2022 jsem postavil chmelnici. Odborné rady jsem čerpal od pana Bryndy z chmelařského institutu ([chizatec.cz](https://www.chizatec.cz)).
+Here is documentation of the hop garden building process. I built it in May 2022.
 
-### Parametry chmelnice
+I planted 4 hop plants the previous autumn: 2× Žatecký poloranný červeňák (Saaz) and 2× Sládek. I bought them directly from the Hop Institute from Mr Brynda ([chizatec.cz](https://www.chizatec.cz)). Fortunately all of them survived and were thriving – time to build the support structure!
 
-| Parametr | Hodnota |
-|----------|---------|
-| Nosníky (KVH) | 100×140 mm, délka 5 m |
-| Hloubka patek | 80 cm |
-| Průměr patek | 20 cm |
-| Rozteč babek chmele | 140 cm |
-| Vzdálenost sloupků | 6 m |
-| Hlavní drátek | 1,5 mm |
-| Svislé drátky | 0,9 mm |
+## Steps
 
-### Postup stavby
+**1. Cast concrete pillars**  
+I inserted 10 mm threaded rods into the fresh concrete to avoid drilling later.
 
-1. Vyvrtání děr pro betonové patky (hloubka 80 cm, průměr 20 cm)
-2. Odlití betonových patek se závitovými tyčemi M10
-3. Natření KVH hranolů impregnačním nátěrem
-4. Usazení patek do štěrkového lože
-5. Montáž hranolů přes závitové tyče
-6. Natažení drátků – vodorovný 1,5 mm, svislé 0,9 mm
+**2. Paint the timber**  
+5 m × 100×140 mm construction timber (KVH), coated with wood preservative before installation.
 
-### Odrůdy
+**3. Drill holes and set pillars**  
+Drill 20 cm diameter holes, 80 cm deep. Insert the concrete pillars and fill around them with compacted gravel.
 
-- **ŽPČ** (Žatecký poloraný červeňák / Saaz) – 2 babky
-- **Sládek** – 2 babky
+**4. Mount the timbers**  
+Place timbers onto the threaded rods and tighten.
+
+## Parameters
+
+| Parameter | Value |
+|-----------|-------|
+| Timber (KVH) | 5 m, 100×140 mm |
+| Hole depth | 80 cm |
+| Hole diameter | 20 cm (compacted gravel fill) |
+| Spacing between plants | 140 cm |
+| Distance between posts | 6 m |
+| Main horizontal wire | 1.5 mm dia |
+| Vertical training wires | 0.9 mm dia |
 
 ![](./02.jpg)
 ![](./03.jpg)

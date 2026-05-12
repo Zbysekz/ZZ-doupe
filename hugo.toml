@@ -7,6 +7,23 @@ summaryLength = 20
 googleAnalytics = 'G-MEASUREMENT_ID'   # <- replace with your GA-4 ID
 disqusShortname = ''                   # <- replace with your Disqus shortname
 
+# Multilingual config
+defaultContentLanguage = 'en-us'
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en-us]
+    title = 'ZZ doupě'
+    languageName = 'English'
+    weight = 1
+    contentDir = 'content'
+
+  [languages.cs]
+    title = 'ZZ doupě'
+    languageName = 'Čeština'
+    weight = 2
+    contentDir = 'content'
+    
 [params]
   mainSections = 'posts'
 

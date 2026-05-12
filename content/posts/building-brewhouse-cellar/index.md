@@ -1,50 +1,55 @@
 ---
-title: "Stavba pivovaru-sklípku"
-slug: "stavba-pivovaru-sklipku"
+title: "Building brewhouse-cellar"
+slug: "building-brewhouse-cellar"
 date: 2021-10-11
 lastmod: 2022-05-04
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Beer brewing"
 tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-translationURL: "/posts/building-brewhouse-cellar/"
-translationLang: "EN"
-description: "Stavba kombinovaného objektu: nádrž na dešťovou vodu (15 m³) + mini sklípek + místnost pro varnu. Celkové náklady ~41 000 Kč."
+translationURL: "/posts/stavba-pivovaru-sklipku/"
+translationLang: "CS"
+description: "Building a combined structure: 15 m³ rainwater tank + mini cellar + brewing room. Total cost ~1800 USD, all work DIY except excavation."
 ---
 
-## Stavba pivovaru-sklípku
+## Building brewhouse-cellar
 
-Abych vyřešil otázku místa pro varnu i potřebu zásoby vody, rozhodl jsem se zkombinovat dvě plánované stavby do jedné: **nádrž na dešťovou vodu** a **mini sklípek s varnou**.
+For homebrewing you need quite a lot of room – just try it in your kitchen and you'll see. My goal was to brew mainly lagers, which adds the problem of maintaining low temperatures for lagering. I brewed twice on the terrace and it was not comfortable: storing equipment each time, no good storage space, and making a mess on the wooden terrace.
 
-### Popis stavby
+For that year I had planned to build a **15 m³ rainwater container** (for toilet flushing and garden irrigation). The obvious question came up naturally: *"If I am already digging such a big hole in the ground, why not make it bigger and build a small cellar and brewing room there?"*
 
-Objekt tvoří tři propojené části:
+## Layout
 
-1. **Nádrž na dešťovou vodu** – objem cca **15 m³**
-2. **Sklípek** – temperovaný prostor pro ležení piva
-3. **Varná místnost** – prostor pro vlastní vaření
+The structure consists of three connected spaces:
 
-Při výkopu bylo naraženo na **spodní vodu ve 2,2 m hloubky**.
+1. **Rainwater tank** – ~15 m³ capacity
+2. **Mini cellar** – temperature-controlled space for lagering
+3. **Brewing room** – space for the actual brewing equipment
 
-### Výhody kombinované stavby
+The cellar contains fermenters and lagering tanks. Cooling is achieved by recirculating cooling liquid through a fridge and coils in the fermenters.
 
-- Dešťová voda pro **chlazení mladiny** bez zbytečných ztrát pitné vody
-- Pitná voda v bezprostřední blízkosti
-- Předpřipravené kabelové rozvody pro automatizaci
+The original plan was a cellar floor at 3 m depth, but underground water appeared during excavation at **2.4 m**, so the floor is at **2.1 m**.
 
-### Náklady
+## Advantages
 
-| Položka | Cena |
-|---------|------|
-| Dřevo (bednění, stropy) | ~15 000 Kč |
-| Ztracené bednění (212 ks) + roxory | ~21 000 Kč |
-| Beton | ~4 000 Kč |
-| Bagr (výkop) | ~2 500 Kč |
-| **Celkem** | **~41 000 Kč** |
+- **Cooling with rainwater** – simply recirculate rainwater through a cooling coil to cool the room effectively in summer
+- Great water supply for **cleaning and washing** brewing equipment
+- Pitching-temperature water on tap
 
-![1](./01.jpg)
+## Price
+
+**Total: ~1800 USD.** All work except excavator was done DIY.
+
+| Item | Cost |
+|------|------|
+| Wood, OSB plates, asphalt cover and fasteners | ~640 USD |
+| Lost formwork 500×100×250 (212 pcs) + steel rods | ~900 USD |
+| Concrete (nearby plant) | ~170 USD |
+| Excavator | ~106 USD |
+| **Total** | **~1 816 USD** |
+
 ![2](./02.jpg)
 ![3](./03.jpg)

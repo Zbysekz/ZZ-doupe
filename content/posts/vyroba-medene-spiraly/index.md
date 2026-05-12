@@ -1,50 +1,51 @@
 ---
-title: "Výroba měděné spirály"
-slug: "vyroba-medene-spiraly"
+title: "Making copper spiral tube"
+slug: "making-copper-spiral-tube"
 date: 2021-05-13
 lastmod: 2021-05-14
 author: "Zbyšek Zapadlík"
 categories:
-  - "Vaření piva"
+  - "Beer brewing"
 tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-translationURL: "/posts/making-copper-spiral-tube/"
-translationLang: "EN"
-description: "Jak vyrobit měděnou spirálu pro HERMS systém a chlazení mladiny z Cu trubky 12×1 mm."
+translationURL: "/posts/vyroba-medene-spiraly/"
+translationLang: "CS"
+description: "How to make a copper coil for a HERMS system and wort chilling from 12×1 mm Cu pipe – including the trick for removing packed salt."
 ---
 
-## Výroba měděné spirály
+## Making copper spiral tube
 
-Pro varnu jsem potřeboval dvě měděné spirály:
+For my DIY microbrewery I needed two copper coils:
 
-1. **HERMS spirála** – pro ohřev rmutové kaše cirkulací přes horkou vodu
-2. **Chladicí spirála** – pro rychlé zchlazení mladiny po vaření
+1. **HERMS coil** – for heating the mash by circulating it through hot water
+2. **Wort chiller coil** – for rapidly cooling the wort after boiling
 
-Volba padla na **měď** – má přibližně 20× lepší tepelnou vodivost než nerezová ocel.
+Copper was the obvious choice: it has roughly **20× better thermal conductivity** than stainless steel, significantly reducing heat exchange time. Durability was less of a concern since I won't be brewing 24/7; cleaning in citric acid handles any oxidation.
 
-### Materiál
+## Parameters
 
-- **Cu trubka polotvrdá 12×1 mm**, délka **5 m**
-- Cena: **515 Kč**
-- Zdroj: [triker.cz – Cu trubka 12×1 mm polotvrdá](https://triker.cz/p-190276010121/Cu-trubka-medena-supersan-12-x-1-mm-polotvrda/)
+- **Cu pipe: 12×1 mm half-hard, 5 m**
+- Price: **515 CZK** (~21 USD)
+- Source: [triker.cz – Cu pipe 12×1 mm half-hard](https://triker.cz/p-190276010121/Cu-trubka-medena-supersan-12-x-1-mm-polotvrda/)
 
-### Postup
+## Procedure
 
-1. Naplnit trubku **solí** – sůl vyplní průřez a zabrání deformaci při ohýbání
-2. Obtočit trubku kolem **kanalizační roury** (tvarník pro správný průměr závitů)
-3. Postupně vinout spirálu požadovaného průměru
+1. Fill the pipe with **salt** – this prevents kinking during bending
+2. Wind the pipe around a **drain pipe** used as a mandrel (my wife helped by walking around it :D)
+3. Shape into the desired coil diameter
 
-### Odstranění soli
+## Getting the salt out
 
-Sůl po vysušení pevně drží uvnitř trubky. Osvědčené řešení:
+This turned out to be the hardest step. After bending, the salt was compacted and nothing worked – pressurised water, knocking, even vinegar. The solution:
 
-1. Napojit na jeden konec **zahradní hadici** a natlakovat
-2. **Uzavřít kohout** a nechat tlak působit **1–2 hodiny**
-3. Otevřít kohout – nahromaděný tlak sůl vyplaví
+1. Connect a **garden hose** to one end and pressurise
+2. **Close the valve** and leave for **1–2 hours**
+3. Open the valve – the built-up pressure forces the salt out
 
-Více k tomuto problému: [How to get the bloody salt out – Tapatalk](https://www.tapatalk.com/groups/modelsteam/how-to-get-the-bloody-salt-out-t65003.html)
+It took 2 hours but it worked. It turns out others have had the same problem:  
+[How to get the bloody salt out – Tapatalk](https://www.tapatalk.com/groups/modelsteam/how-to-get-the-bloody-salt-out-t65003.html) (the author there used compressed air instead).
 
 ![](./02.jpg)
 ![](./03.jpg)
