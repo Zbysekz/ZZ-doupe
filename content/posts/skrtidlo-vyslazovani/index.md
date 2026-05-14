@@ -4,7 +4,7 @@ slug: "clamp-for-sparging-and-lautering"
 date: 2023-02-13
 author: "Zbyšek Zapadlík"
 categories:
-  - "Brewing Beer"
+  - "Homebrewing"
 tags:
   - "homebrewing"
 draft: false

@@ -5,7 +5,7 @@ date: 2021-05-01
 lastmod: 2022-05-04
 author: "Zbyšek Zapadlík"
 categories:
-  - "Beer brewing"
+  - "Homebrewing"
 tags:
   - "microbrewery"
   - "motivation"

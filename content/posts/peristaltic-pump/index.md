@@ -5,7 +5,7 @@ date: 2021-04-21
 lastmod: 2021-07-14
 author: "Zbyšek Zapadlík"
 categories:
-  - "Beer brewing"
+  - "Homebrewing"
 tags:
   - "3D print"
   - "pump"

@@ -5,7 +5,7 @@ date: 2021-05-13
 lastmod: 2021-07-29
 author: "Zbyšek Zapadlík"
 categories:
-  - "Beer brewing"
+  - "Homebrewing"
 tags:
   - "homebrewing"
 draft: false

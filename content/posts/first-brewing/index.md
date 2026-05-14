@@ -4,7 +4,7 @@ slug: "my-first-brewing"
 date: 2021-07-14
 author: "Zbyšek Zapadlík"
 categories:
-  - "Beer brewing"
+  - "Homebrewing"
 tags:
   - "homebrewing"
 draft: false

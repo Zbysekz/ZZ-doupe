@@ -5,7 +5,7 @@ date: 2022-05-13
 lastmod: 2022-06-03
 author: "Zbyšek Zapadlík"
 categories:
-  - "Beer brewing"
+  - "Homebrewing"
 tags:
   - "homebrewing"
 image: "12.webp"

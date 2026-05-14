@@ -4,7 +4,7 @@ slug: "hop-harvest-2022"
 date: 2022-11-30
 author: "Zbyšek Zapadlík"
 categories:
-  - "Brewing beer"
+  - "Homebrewing"
 tags:
   - "homebrewing"
 draft: false
