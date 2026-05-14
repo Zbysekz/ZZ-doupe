@@ -9,7 +9,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/cs/posts/stavba-pivovaru-sklipku/"
 translationLang: "CS"
 description: "Building a combined structure: 15 m³ rainwater tank + mini cellar + brewing room. Total cost ~1800 USD, all work DIY except excavation."
@@ -54,5 +54,5 @@ The original plan was a cellar floor at 3 m depth, but underground water appeare
 | Excavator | ~106 USD |
 | **Total** | **~1 816 USD** |
 
-![2](./02.jpg)
-![3](./03.jpg)
+![2](./02.webp)
+![3](./03.webp)

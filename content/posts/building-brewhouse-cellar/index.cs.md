@@ -9,7 +9,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/posts/building-brewhouse-cellar/"
 translationLang: "EN"
 description: "Stavba kombinovaného objektu: nádrž na dešťovou vodu (15 m³) + mini sklípek + místnost pro varnu. Celkové náklady ~41 000 Kč."
@@ -47,6 +47,6 @@ Při výkopu bylo naraženo na **spodní vodu ve 2,2 m hloubky**.
 | Bagr (výkop) | ~2 500 Kč |
 | **Celkem** | **~41 000 Kč** |
 
-![1](./01.jpg)
-![2](./02.jpg)
-![3](./03.jpg)
+![1](./01.webp)
+![2](./02.webp)
+![3](./03.webp)

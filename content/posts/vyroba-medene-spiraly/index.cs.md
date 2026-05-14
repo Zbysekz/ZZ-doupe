@@ -9,7 +9,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/posts/making-copper-spiral-tube/"
 translationLang: "EN"
 description: "Jak vyrobit měděnou spirálu pro HERMS systém a chlazení mladiny z Cu trubky 12×1 mm."
@@ -46,6 +46,6 @@ Sůl po vysušení pevně drží uvnitř trubky. Osvědčené řešení:
 
 Více k tomuto problému: [How to get the bloody salt out – Tapatalk](https://www.tapatalk.com/groups/modelsteam/how-to-get-the-bloody-salt-out-t65003.html)
 
-![](02.jpg)
-![](03.jpg)
-![](04.jpg)
+![](02.webp)
+![](03.webp)
+![](04.webp)

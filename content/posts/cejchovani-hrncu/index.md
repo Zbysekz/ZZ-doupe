@@ -9,7 +9,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "02.jpg"
+image: "02.webp"
 translationURL: "/cs/posts/cejchovani-hrncu/"
 translationLang: "CS"
 description: "Electrolytic etching of volume scales on stainless brew pots using a 3D-printed template – more accurate and durable than the duct-tape method."
@@ -46,7 +46,7 @@ The template model is parametric – you will need to adjust it to match your po
 - [Parametric model – OnShape](https://cad.onshape.com/documents/3b5285c8e771676dbc97391e/w/b20166cc99900b7f86d25ebb/e/b7ad8022e80818e54c37f934?renderMode=0&uiState=6246c486d219ed77c1897c99)
 - [3D model – Printables.com](https://www.printables.com/cs/model/162664-measuring-volume-scale-mask)
 
-![1](./01.jpg)
-![3](./03.jpg)
-![4](./04.jpg)
-![5](./05.jpg)
+![1](./01.webp)
+![3](./03.webp)
+![4](./04.webp)
+![5](./05.webp)

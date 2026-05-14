@@ -8,7 +8,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/cs/posts/skrtidlo-na-vyslazovani-a-scezovani/"
 translationLang: "CS"
 description: "3D-printed hose clamp for beer lautering and sparging – model from Printables, printed in PETG or ASA, using plastic clips."
@@ -43,5 +43,5 @@ The clamp regulates hose flow from full flow down to complete shutoff. Ideal for
 - **Sparging** (rinsing water)
 - General hose switching in the brewhouse
 
-![](02.jpg)
-![](03.jpg)
+![](02.webp)
+![](03.webp)

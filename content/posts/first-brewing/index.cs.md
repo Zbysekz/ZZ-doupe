@@ -8,7 +8,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "05.jpg"
+image: "05.webp"
 translationURL: "/posts/my-first-brewing/"
 translationLang: "EN"
 description: "Zdokumentované první vaření 8. 5. 2021 – recept ALE 11° Lemondrop, HERMS systém, 4 závažné problémy a výsledek: nealko pivo 1–2 % ABV."
@@ -56,11 +56,11 @@ Výsledné pivo dosáhlo pouze **1–2 % ABV**. Přesto bylo oceněno jako **„
 - Elektroinstalace varny potřebuje důkladnější revizi
 - Teplotní čidla je třeba pravidelně kontrolovat
 
-![](01.jpg)
-![](02.jpg)
-![](03.jpg)
-![](04.jpg)
-![](06.jpg)
-![](07.jpg)
-![](08.jpg)
-![](09.jpg)
+![](01.webp)
+![](02.webp)
+![](03.webp)
+![](04.webp)
+![](06.webp)
+![](07.webp)
+![](08.webp)
+![](09.webp)

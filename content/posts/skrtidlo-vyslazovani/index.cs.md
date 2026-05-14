@@ -8,7 +8,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/posts/clamp-for-sparging-and-lautering/"
 translationLang: "EN"
 description: "3D tisknuté škrtidlo na hadičku pro scezování a vyslazování piva – model z Printables, tisk z PETG nebo ASA, plastové klipsy."
@@ -44,5 +44,5 @@ Místo originálních **kovových hřídelek** jsem použil **plastové klipsy**
 - **Vyslazování** (splachovací vody)
 - Obecné přepínání hadiček ve varně
 
-![](02.jpg)
-![](03.jpg)
+![](02.webp)
+![](03.webp)

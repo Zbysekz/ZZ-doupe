@@ -7,7 +7,7 @@ categories:
   - "Vaření piva"
 tags:
   - "homebrewing"
-image: "01.jpg"
+image: "01.webp"
 draft: false
 translationURL: "/posts/building-hop-garden/"
 translationLang: "EN"
@@ -44,19 +44,19 @@ V květnu 2022 jsem postavil chmelnici. Odborné rady jsem čerpal od pana Brynd
 - **ŽPČ** (Žatecký poloraný červeňák / Saaz) – 2 babky
 - **Sládek** – 2 babky
 
-![](02.jpg)
-![](03.jpg)
-![](04.jpg)
-![](05.jpg)
-![](06.jpg)
-![](07.jpg)
-![](08.jpg)
-![](09.jpg)
-![](10.jpg)
-![](11.jpg)
-![](12.jpg)
-![](13.jpg)
-![](14.jpg)
+![](02.webp)
+![](03.webp)
+![](04.webp)
+![](05.webp)
+![](06.webp)
+![](07.webp)
+![](08.webp)
+![](09.webp)
+![](10.webp)
+![](11.webp)
+![](12.webp)
+![](13.webp)
+![](14.webp)
 
 
 ## Časosběr růstu chmele

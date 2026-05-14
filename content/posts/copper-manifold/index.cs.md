@@ -9,7 +9,7 @@ categories:
 tags:
   - "homebrewing"
 draft: false
-image: "01.jpg"
+image: "01.webp"
 translationURL: "/posts/copper-manifold/"
 translationLang: "EN"
 description: "Výroba měděného manifestu pro scezování mladiny – alternativa k falešnému dnu nebo bazooce. Snadno rozebíratelný, cca 700 Kč."
@@ -51,8 +51,8 @@ Z 2 m trubky Cu 15×1 se vyrobí:
 
 Štěrbiny se řežou opatrně brusnými kotoučky v mikrovrtačce. Šířka 0,6 mm je kompromis – propustí tekutinu, ale zachytí zrno ze šrotu. Doporučuji práci provádět ve svěráku a vždy používat ochranné brýle – kotoučky jsou křehké a mohou se rozlomit.
 
-![](02.jpg)
-![](03.jpg)
-![](04.jpg)
-![](05.jpg)
-![](06.jpg)
+![](02.webp)
+![](03.webp)
+![](04.webp)
+![](05.webp)
+![](06.webp)

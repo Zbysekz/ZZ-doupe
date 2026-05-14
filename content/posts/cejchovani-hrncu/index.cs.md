@@ -13,7 +13,7 @@ tags:
   - "elektrolytické leptání"
   - "varna"
 draft: false
-image: "02.jpg"
+image: "02.webp"
 translationURL: "/posts/making-scale-on-stainless-pots/"
 translationLang: "EN"
 description: "Metoda elektrolytického cejchování varných hrnců pomocí 3D tisknuté šablony – přesnější a trvanlivější alternativa k izolačce."
@@ -52,10 +52,10 @@ Elektrický proud prochází vodivým roztokem (ocet + sůl) a lokálně odebír
 | Izolačka | Jednoduché vybavení | Špatně kopíruje kulatý povrch |
 | 3D tisknutá šablona | Přesné a opakovatelné | Nutnost 3D tiskárny |
 
-![1](./01.jpg)
-![3](./03.jpg)
-![4](./04.jpg)
-![5](./05.jpg)
+![1](./01.webp)
+![3](./03.webp)
+![4](./04.webp)
+![5](./05.webp)
 
 ### Zdroje
 

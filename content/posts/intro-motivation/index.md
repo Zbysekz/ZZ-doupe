@@ -11,7 +11,7 @@ tags:
   - "motivation"
   - "automation"
   - "mashing"
-image: "01.jpg"
+image: "01.webp"
 draft: false
 translationURL: "/cs/posts/uvod-motivace/"
 translationLang: "CS"
@@ -50,6 +50,6 @@ I was inspired by [this connected vessels method](https://www.youtube.com/watch?
 
 > **Note:** It did not work – the pressure required is so large that the vessels cannot hold it and would need to be sealed extremely well.
 
-![](02.jpg)
-![](03.jpg)
-![](04.jpg)
+![](02.webp)
+![](03.webp)
+![](04.webp)
