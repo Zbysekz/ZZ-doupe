@@ -19,6 +19,8 @@ description: "Stavba kombinovaného objektu: nádrž na dešťovou vodu (15 m³)
 
 Abych vyřešil otázku místa pro varnu i potřebu zásoby vody, rozhodl jsem se zkombinovat dvě plánované stavby do jedné: **nádrž na dešťovou vodu** a **mini sklípek s varnou**.
 
+{{< youtube cT0-291ggVM >}}
+
 ### Popis stavby
 
 Objekt tvoří tři propojené části:

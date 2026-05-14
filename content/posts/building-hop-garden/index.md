@@ -60,3 +60,7 @@ Place timbers onto the threaded rods and tighten.
 ![](12.jpg)
 ![](13.jpg)
 ![](14.jpg)
+
+## Timelapse of hops growing
+
+{{< youtube yZG29NC07Oo >}}

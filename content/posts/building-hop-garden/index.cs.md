@@ -57,3 +57,8 @@ V květnu 2022 jsem postavil chmelnici. Odborné rady jsem čerpal od pana Brynd
 ![](12.jpg)
 ![](13.jpg)
 ![](14.jpg)
+
+
+## Časosběr růstu chmele
+
+{{< youtube yZG29NC07Oo >}}

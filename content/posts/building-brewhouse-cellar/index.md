@@ -10,7 +10,7 @@ tags:
   - "homebrewing"
 draft: false
 image: "01.jpg"
-translationURL: "/posts/stavba-pivovaru-sklipku/"
+translationURL: "/cs/posts/stavba-pivovaru-sklipku/"
 translationLang: "CS"
 description: "Building a combined structure: 15 m³ rainwater tank + mini cellar + brewing room. Total cost ~1800 USD, all work DIY except excavation."
 ---
@@ -20,6 +20,9 @@ description: "Building a combined structure: 15 m³ rainwater tank + mini cellar
 For homebrewing you need quite a lot of room – just try it in your kitchen and you'll see. My goal was to brew mainly lagers, which adds the problem of maintaining low temperatures for lagering. I brewed twice on the terrace and it was not comfortable: storing equipment each time, no good storage space, and making a mess on the wooden terrace.
 
 For that year I had planned to build a **15 m³ rainwater container** (for toilet flushing and garden irrigation). The obvious question came up naturally: *"If I am already digging such a big hole in the ground, why not make it bigger and build a small cellar and brewing room there?"*
+
+
+{{< youtube cT0-291ggVM >}}
 
 ## Layout
 

@@ -13,6 +13,7 @@ tags:
   - "microbrewery"
   - "electronics"
 draft: false
+image: "1.webp"
 translationURL: "/cs/posts/peristalticke-cerpadlo/"
 translationLang: "CS"
 description: "Design and build of a 3D-printed peristaltic pump for a microbrewery – version 0 and version 1."
@@ -31,6 +32,8 @@ First prototype – fully 3D printed. Driven by a **12V motor**:
 
 The design includes a connection for a second hose.
 
+{{< youtube FN6de605Y0U >}}
+{{< youtube DiQeHA8DqAk >}}
 ## Version 1
 
 Simplified design using less material. Key changes:
@@ -46,3 +49,7 @@ Simplified design using less material. Key changes:
 Because the wort only contacts the silicone tubing, no additional food-safe coating is needed. The pump needs to be flooded to start but can handle a small amount of suction. There is no shaft seal.
 
 In practice, the pump proved unsuitable for circulating thick mash – a different solution is needed for that.
+
+{{< youtube L5UTXgOIvcI >}}
+
+UPDATE: after using it as cooler pump for something like 24 up to 48 hours, the silicon tubing cracked, there were small ruptures on it. Project abandoned.

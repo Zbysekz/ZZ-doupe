@@ -13,12 +13,11 @@ tags:
   - "mikropivovar"
   - "elektronika"
 draft: false
+image: "1.webp"
 translationURL: "/posts/peristaltic-pump-for-microbrewery/"
 translationLang: "EN"
 description: "Návrh a výroba 3D tisknutého peristaltického čerpadla pro mikrovarnu – verze 0 a verze 1."
 ---
-
-## Peristaltické čerpadlo pro mikrovarnu
 
 Pro cirkulaci mladiny a horké vody jsem navrhl a vytiskl vlastní peristaltické čerpadlo vhodné pro potravinářské účely. Celkem vznikly dvě verze.
 
@@ -30,6 +29,10 @@ První prototyp čerpadla byl kompletně 3D tisknutý. Pohon zajišťuje **12V m
 - Při pohonu **akuvrtačkou**: průtok cca **3 l/min**
 
 Konstrukce počítá s přípravou pro druhou hadici.
+
+
+{{< youtube FN6de605Y0U >}}
+{{< youtube DiQeHA8DqAk >}}
 
 ### Verze 1
 
@@ -44,3 +47,8 @@ Druhá verze přináší zjednodušení a úsporu materiálu. Klíčové změny:
 - Cena materiálu: **do 200 Kč** (bez motoru a silikonových válečků)
 
 Čerpadlo bylo navrženo jako základ HERMS cirkulačního systému, avšak po prvním vaření se ukázalo, že pro cirkulaci hustého rmutu peristaltické čerpadlo nestačí.
+
+{{< youtube L5UTXgOIvcI >}}
+
+UPDATE: po cca 24 až 48 hodinách se objevily mikro-trhliny na silikonové hadici.
+Projekt opuštěn.
