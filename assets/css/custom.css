@@ -1,0 +1,45 @@
+/* Custom styles for ZZ doupě */
+
+.centered-figure {
+    text-align: center;
+    margin: 1rem auto;
+}
+
+.centered-figure img {
+    display: block;        /* This is recommended */
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+.centered-figure figcaption {
+    text-align: center;
+    font-style: italic;
+    color: #666;
+}
+
+
+.image-70 {
+    max-width: 70%;
+    height: auto;
+    margin: 2rem auto;
+    display: block;
+}
+.image-50 {
+    max-width: 50%;
+    height: auto;
+    margin: 2rem auto;
+    display: block;
+}
+
+.side-by-side {
+    display: flex;
+    gap: 15px;
+    margin: 2rem 0;
+}
+
+.side-by-side img {
+    flex: 1;
+    width: 100%;
+    height: auto;
+}
