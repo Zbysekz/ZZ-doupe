@@ -43,3 +43,11 @@
     width: 100%;
     height: auto;
 }
+
+/* Footer text column width override */
+@media (min-width: 768px) {
+    .md\:w-3\/5 { max-width: 80%; }
+}
+@media (min-width: 1024px) {
+    .lg\:w-3\/5 { max-width: 80%; }
+}
