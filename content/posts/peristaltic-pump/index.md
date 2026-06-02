@@ -52,4 +52,4 @@ In practice, the pump proved unsuitable for circulating thick mash – a differe
 
 {{< youtube L5UTXgOIvcI >}}
 
-UPDATE: after using it as cooler pump for something like 24 up to 48 hours, the silicon tubing cracked, there were small ruptures on it. Project abandoned.
+UPDATE: after using it as a cooler pump for roughly 24–48 hours, the silicone tubing cracked with small ruptures. Project abandoned.

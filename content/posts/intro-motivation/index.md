@@ -22,11 +22,11 @@ description: "Motivation for building a home microbrewery – from idea to execu
 
 *April 2021*
 
-After finishing my powerwall project, I was looking for the next big project that will keep my brain and hands busy. A few years ago I was an employee of **ProjectSoft HK** as a programmer. One business field was system control of sugar factories, brewhouses and mini-brewhouses. (Czech republic is a super-nation in the count of mini-brewhouses :))
+After finishing my powerwall project, I was looking for the next big project that would keep my brain and hands busy. A few years ago I worked at **ProjectSoft HK** as a programmer. One business field was system control of sugar factories, brewhouses and mini-brewhouses. (Czech Republic leads the world in the number of mini-brewhouses :))
 
-At one business trip I had the opportunity to debug and put into production a mini-brewhouse in Switzerland, run by two brothers. I remember one moment when one of the brothers stood up in front of the brewhouse, spread his arms and said: *"This is MY machine!"*
+On one business trip I had the opportunity to debug and put into production a mini-brewhouse in Switzerland, run by two brothers. I remember one moment when one of the brothers stood up in front of the brewhouse, spread his arms and said: *"This is MY machine!"*
 
-I like beer, my friends and family too – so the project topic is chosen!
+I like beer, and so do my friends and family – so the topic was an easy choice!
 
 ## Idea
 

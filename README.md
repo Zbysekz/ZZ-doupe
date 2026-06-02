@@ -1,5 +1,23 @@
 # ZZ-doupe
 
+## Run locally
+
+**Requirement:** Hugo ≥ 0.116.0 (`sudo apt install hugo` or https://gohugo.io/installation/)
+
+```bash
+hugo server
+```
+
+Open http://localhost:1313 in your browser. The server hot-reloads on file changes.
+
+To include draft posts:
+
+```bash
+hugo server -D
+```
+
+---
+
 # Optimize images
 `sudo apt install convert`
 
